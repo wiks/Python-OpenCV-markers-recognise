@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/workspace.xml
+db.pyc
+docs/_templates/
+main.pyc
+proc_img.pyc
+notes.txt
+

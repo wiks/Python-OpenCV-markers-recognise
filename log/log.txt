@@ -1,0 +1,512 @@
+2018-10-04 16:02:59.589  INFO      log              dp = 2
+2018-10-04 16:02:59.590  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:02:59.590  INFO      log              minDist = 100
+2018-10-04 16:02:59.590  INFO      log              minDist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:02:59.590  INFO      log              higher_threshold = 1520
+2018-10-04 16:02:59.591  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:02:59.591  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector (the lower one is twice smaller)
+2018-10-04 16:02:59.591  INFO      log              less_false = 150
+2018-10-04 16:02:59.591  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:02:59.591  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:02:59.591  INFO      log              blockSize = 11
+2018-10-04 16:02:59.592  INFO      log              C = 2.6
+2018-10-04 16:02:59.974  INFO      log              calculate, depend of video-size:
+2018-10-04 16:02:59.975  INFO      log              min_radius  = 43
+2018-10-04 16:02:59.975  INFO      log              max_radius  = 218
+2018-10-04 16:02:59.975  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:02:59.975  INFO      log              how many hits to confirm: 8
+2018-10-04 16:03:00.098  INFO      log              LED-OFF
+2018-10-04 16:03:01.833  INFO      log              LED-ON:
+2018-10-04 16:03:01.833  INFO      log              circle X: 439, Y: 175, R: 97
+2018-10-04 16:03:04.419  INFO      log              LED-OFF
+2018-10-04 16:03:06.266  INFO      log              LED-ON:
+2018-10-04 16:03:06.266  INFO      log              circle X: 169, Y: 201, R: 97
+2018-10-04 16:03:08.255  INFO      log              LED-OFF
+2018-10-04 16:03:11.697  INFO      log              LED-ON:
+2018-10-04 16:03:11.697  INFO      log              circle X: 105, Y: 313, R: 62
+2018-10-04 16:05:55.089  INFO      log              dp = 2
+2018-10-04 16:05:55.090  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:05:55.090  INFO      log              minDist = 100
+2018-10-04 16:05:55.090  INFO      log              minDist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:05:55.090  INFO      log              higher_threshold = 1520
+2018-10-04 16:05:55.091  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:05:55.091  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector (the lower one is twice smaller)
+2018-10-04 16:05:55.091  INFO      log              less_false = 150
+2018-10-04 16:05:55.091  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:05:55.091  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:05:55.091  INFO      log              blockSize = 11
+2018-10-04 16:05:55.092  INFO      log              C = 2.6
+2018-10-04 16:05:55.472  INFO      log              calculate, depend of video-size:
+2018-10-04 16:05:55.473  INFO      log              min_radius  = 43
+2018-10-04 16:05:55.473  INFO      log              max_radius  = 218
+2018-10-04 16:05:55.473  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:05:55.473  INFO      log              how many hits to confirm: 8
+2018-10-04 16:05:55.598  INFO      log              LED-OFF
+2018-10-04 16:05:57.337  INFO      log              LED-ON:
+2018-10-04 16:05:57.337  INFO      log              circle X: 441, Y: 157, R: 94
+2018-10-04 16:05:59.601  INFO      log              LED-OFF
+2018-10-04 16:06:01.063  INFO      log              LED-ON:
+2018-10-04 16:06:01.063  INFO      log              circle X: 415, Y: 175, R: 92
+2018-10-04 16:18:26.657  INFO      log              dp = 2
+2018-10-04 16:18:26.658  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:18:26.658  INFO      log              mindist = 100
+2018-10-04 16:18:26.658  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:18:26.659  INFO      log              higher_threshold = 1520
+2018-10-04 16:18:26.659  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:18:26.659  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:18:26.659  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:18:26.659  INFO      log              less_false = 150
+2018-10-04 16:18:26.659  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:18:26.660  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:18:26.660  INFO      log              blockSize = 11
+2018-10-04 16:18:26.660  INFO      log              C = 2.6
+2018-10-04 16:18:27.038  INFO      log              calculate, depend of video-size:
+2018-10-04 16:18:27.038  INFO      log              min_radius  = 43
+2018-10-04 16:18:27.038  INFO      log              max_radius  = 218
+2018-10-04 16:18:27.038  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:18:27.038  INFO      log              how many hits to confirm: 8
+2018-10-04 16:18:27.164  INFO      log              LED-OFF
+2018-10-04 16:18:29.033  INFO      log              LED-ON:
+2018-10-04 16:18:29.034  INFO      log              circle X: 429, Y: 173, R: 103
+2018-10-04 16:18:34.631  INFO      log              LED-OFF
+2018-10-04 16:18:35.433  INFO      log              LED-ON:
+2018-10-04 16:18:35.433  INFO      log              circle X: 139, Y: 319, R: 55
+2018-10-04 16:21:37.249  INFO      log              dp = 2
+2018-10-04 16:21:37.250  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:21:37.250  INFO      log              mindist = 100
+2018-10-04 16:21:37.250  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:21:37.251  INFO      log              higher_threshold = 1520
+2018-10-04 16:21:37.251  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:21:37.251  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:21:37.251  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:21:37.251  INFO      log              less_false = 150
+2018-10-04 16:21:37.251  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:21:37.252  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:21:37.252  INFO      log              blockSize = 11
+2018-10-04 16:21:37.252  INFO      log              C = 2.6
+2018-10-04 16:21:37.634  INFO      log              calculate, depend of video-size:
+2018-10-04 16:21:37.634  INFO      log              min_radius  = 43
+2018-10-04 16:21:37.634  INFO      log              max_radius  = 218
+2018-10-04 16:21:37.634  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:21:37.635  INFO      log              how many hits to confirm: 8
+2018-10-04 16:21:37.757  INFO      log              LED-OFF
+2018-10-04 16:21:39.895  INFO      log              LED-ON:
+2018-10-04 16:21:39.895  INFO      log              circle X: 487, Y: 187, R: 105
+2018-10-04 16:21:44.024  INFO      log              LED-OFF
+2018-10-04 16:21:44.959  INFO      log              LED-ON:
+2018-10-04 16:21:44.960  INFO      log              circle X: 523, Y: 181, R: 84
+2018-10-04 16:21:46.728  INFO      log              LED-OFF
+2018-10-04 16:21:49.528  INFO      log              LED-ON:
+2018-10-04 16:21:49.528  INFO      log              circle X: 171, Y: 197, R: 93
+2018-10-04 16:21:51.003  INFO      log              LED-OFF
+2018-10-04 16:21:55.403  INFO      log              LED-ON:
+2018-10-04 16:21:55.403  INFO      log              circle X: 459, Y: 161, R: 107
+2018-10-04 16:21:57.136  INFO      log              LED-OFF
+2018-10-04 16:21:57.255  INFO      log              LED-ON:
+2018-10-04 16:21:57.255  INFO      log              circle X: 455, Y: 161, R: 107
+2018-10-04 16:21:59.890  INFO      log              LED-OFF
+2018-10-04 16:22:01.092  INFO      log              LED-ON:
+2018-10-04 16:22:01.092  INFO      log              circle X: 403, Y: 183, R: 80
+2018-10-04 16:23:23.791  INFO      log              dp = 2
+2018-10-04 16:23:23.792  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:23:23.792  INFO      log              mindist = 100
+2018-10-04 16:23:23.792  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:23:23.792  INFO      log              higher_threshold = 1520
+2018-10-04 16:23:23.792  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:23:23.792  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:23:23.793  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:23:23.793  INFO      log              less_false = 150
+2018-10-04 16:23:23.793  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:23:23.793  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:23:23.793  INFO      log              blockSize = 11
+2018-10-04 16:23:23.794  INFO      log              C = 2.6
+2018-10-04 16:23:24.172  INFO      log              calculate, depend of video-size:
+2018-10-04 16:23:24.172  INFO      log              min_radius  = 43
+2018-10-04 16:23:24.172  INFO      log              max_radius  = 218
+2018-10-04 16:23:24.172  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:23:24.172  INFO      log              how many hits to confirm: 8
+2018-10-04 16:23:24.298  INFO      log              LED-OFF
+2018-10-04 16:23:26.036  INFO      log              LED-ON:
+2018-10-04 16:23:26.036  INFO      log              circle X: 433, Y: 179, R: 92
+2018-10-04 16:26:28.018  INFO      log              dp = 2
+2018-10-04 16:26:28.018  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:26:28.018  INFO      log              mindist = 100
+2018-10-04 16:26:28.018  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:26:28.018  INFO      log              higher_threshold = 1520
+2018-10-04 16:26:28.019  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:26:28.019  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:26:28.019  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:26:28.019  INFO      log              less_false = 150
+2018-10-04 16:26:28.019  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:26:28.019  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:26:28.019  INFO      log              blockSize = 11
+2018-10-04 16:26:28.019  INFO      log              C = 2.6
+2018-10-04 16:26:28.400  INFO      log              calculate, depend of video-size:
+2018-10-04 16:26:28.400  INFO      log              min_radius  = 43
+2018-10-04 16:26:28.400  INFO      log              max_radius  = 218
+2018-10-04 16:26:28.400  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:26:28.400  INFO      log              how many hits to confirm: 8
+2018-10-04 16:26:28.524  INFO      log              LED-OFF
+2018-10-04 16:26:29.862  INFO      log              LED-ON:
+2018-10-04 16:26:29.862  INFO      log              circle X: 435, Y: 177, R: 96
+2018-10-04 16:27:01.220  INFO      log              dp = 2
+2018-10-04 16:27:01.220  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:27:01.220  INFO      log              mindist = 100
+2018-10-04 16:27:01.220  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:27:01.221  INFO      log              higher_threshold = 1520
+2018-10-04 16:27:01.221  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:27:01.221  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:27:01.221  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:27:01.221  INFO      log              less_false = 150
+2018-10-04 16:27:01.221  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:27:01.222  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:27:01.222  INFO      log              blockSize = 11
+2018-10-04 16:27:01.222  INFO      log              C = 2.6
+2018-10-04 16:27:01.603  INFO      log              calculate, depend of video-size:
+2018-10-04 16:27:01.603  INFO      log              min_radius  = 43
+2018-10-04 16:27:01.603  INFO      log              max_radius  = 218
+2018-10-04 16:27:01.603  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:27:01.603  INFO      log              how many hits to confirm: 8
+2018-10-04 16:27:01.728  INFO      log              LED-OFF
+2018-10-04 16:27:03.065  INFO      log              LED-ON:
+2018-10-04 16:27:03.065  INFO      log              circle X: 429, Y: 175, R: 87
+2018-10-04 16:35:54.713  INFO      log              LED-OFF
+2018-10-04 16:35:58.029  INFO      log              LED-ON:
+2018-10-04 16:35:58.029  INFO      log              circle X: 167, Y: 203, R: 99
+2018-10-04 16:36:01.863  INFO      log              LED-OFF
+2018-10-04 16:36:03.992  INFO      log              LED-ON:
+2018-10-04 16:36:03.992  INFO      log              circle X: 75, Y: 307, R: 59
+2018-10-04 16:37:34.662  INFO      log              dp = 2
+2018-10-04 16:37:34.662  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:37:34.663  INFO      log              mindist = 100
+2018-10-04 16:37:34.663  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:37:34.663  INFO      log              higher_threshold = 1520
+2018-10-04 16:37:34.663  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:37:34.663  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:37:34.663  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:37:34.663  INFO      log              less_false = 150
+2018-10-04 16:37:34.664  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:37:34.664  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:37:34.664  INFO      log              blockSize = 11
+2018-10-04 16:37:34.664  INFO      log              C = 2.6
+2018-10-04 16:37:35.045  INFO      log              calculate, depend of video-size:
+2018-10-04 16:37:35.045  INFO      log              min_radius  = 43
+2018-10-04 16:37:35.045  INFO      log              max_radius  = 218
+2018-10-04 16:37:35.046  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:37:35.046  INFO      log              how many hits to confirm: 8
+2018-10-04 16:37:35.170  INFO      log              LED-OFF
+2018-10-04 16:37:37.037  INFO      log              LED-ON:
+2018-10-04 16:37:37.037  INFO      log              circle X: 407, Y: 171, R: 92
+2018-10-04 16:37:41.482  INFO      log              LED-OFF
+2018-10-04 16:37:44.137  INFO      log              LED-ON:
+2018-10-04 16:37:44.137  INFO      log              circle X: 457, Y: 159, R: 107
+2018-10-04 16:37:44.929  INFO      log              LED-OFF
+2018-10-04 16:37:45.599  INFO      log              LED-ON:
+2018-10-04 16:37:45.599  INFO      log              circle X: 457, Y: 159, R: 113
+2018-10-04 16:37:48.665  INFO      log              LED-OFF
+2018-10-04 16:37:52.502  INFO      log              LED-ON:
+2018-10-04 16:37:52.502  INFO      log              circle X: 371, Y: 169, R: 91
+2018-10-04 16:39:36.657  INFO      log              dp = 2
+2018-10-04 16:39:36.657  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:39:36.658  INFO      log              mindist = 100
+2018-10-04 16:39:36.658  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:39:36.658  INFO      log              higher_threshold = 1520
+2018-10-04 16:39:36.658  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:39:36.658  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:39:36.658  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:39:36.658  INFO      log              less_false = 150
+2018-10-04 16:39:36.658  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:39:36.659  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:39:36.659  INFO      log              blockSize = 11
+2018-10-04 16:39:36.659  INFO      log              C = 2.6
+2018-10-04 16:39:37.041  INFO      log              calculate, depend of video-size:
+2018-10-04 16:39:37.041  INFO      log              min_radius  = 43
+2018-10-04 16:39:37.041  INFO      log              max_radius  = 218
+2018-10-04 16:39:37.041  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:39:37.041  INFO      log              how many hits to confirm: 8
+2018-10-04 16:39:37.164  INFO      log              LED-OFF
+2018-10-04 16:39:40.231  INFO      log              LED-ON:
+2018-10-04 16:39:40.231  INFO      log              circle X: 371, Y: 187, R: 79
+2018-10-04 16:39:41.866  INFO      log              LED-OFF
+2018-10-04 16:39:43.195  INFO      log              LED-ON:
+2018-10-04 16:39:43.195  INFO      log              circle X: 461, Y: 159, R: 105
+2018-10-04 16:39:46.787  INFO      log              LED-OFF
+2018-10-04 16:39:46.921  INFO      log              LED-ON:
+2018-10-04 16:39:46.921  INFO      log              circle X: 455, Y: 159, R: 111
+2018-10-04 16:40:13.456  INFO      log              LED-OFF
+2018-10-04 16:40:13.851  INFO      log              LED-ON:
+2018-10-04 16:40:13.851  INFO      log              circle X: 461, Y: 159, R: 103
+2018-10-04 16:41:46.049  INFO      log              dp = 2
+2018-10-04 16:41:46.050  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 16:41:46.050  INFO      log              mindist = 100
+2018-10-04 16:41:46.050  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 16:41:46.050  INFO      log              higher_threshold = 1520
+2018-10-04 16:41:46.051  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:41:46.051  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 16:41:46.051  INFO      log              (the lower one is twice smaller)
+2018-10-04 16:41:46.051  INFO      log              less_false = 150
+2018-10-04 16:41:46.051  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 16:41:46.051  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 16:41:46.052  INFO      log              blockSize = 11
+2018-10-04 16:41:46.052  INFO      log              C = 2.6
+2018-10-04 16:41:49.415  INFO      log              calculate, depend of video-size:
+2018-10-04 16:41:49.416  INFO      log              min_radius  = 43
+2018-10-04 16:41:49.416  INFO      log              max_radius  = 218
+2018-10-04 16:41:49.416  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 16:41:49.417  INFO      log              how many hits to confirm: 8
+2018-10-04 16:41:49.489  INFO      log              LED-OFF
+2018-10-04 16:41:50.727  INFO      log              LED-ON:
+2018-10-04 16:41:50.727  INFO      log              circle X: 457, Y: 161, R: 107
+2018-10-04 16:41:52.715  INFO      log              LED-OFF
+2018-10-04 16:41:52.994  INFO      log              LED-ON:
+2018-10-04 16:41:52.994  INFO      log              circle X: 455, Y: 161, R: 107
+2018-10-04 16:41:53.785  INFO      log              LED-OFF
+2018-10-04 16:41:54.190  INFO      log              LED-ON:
+2018-10-04 16:41:54.190  INFO      log              circle X: 463, Y: 159, R: 103
+2018-10-04 16:41:58.822  INFO      log              LED-OFF
+2018-10-04 16:41:59.756  INFO      log              LED-ON:
+2018-10-04 16:41:59.756  INFO      log              circle X: 99, Y: 317, R: 54
+2018-10-04 17:33:22.131  INFO      log              dp = 2
+2018-10-04 17:33:22.131  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:33:22.131  INFO      log              mindist = 100
+2018-10-04 17:33:22.131  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:33:22.131  INFO      log              higher_threshold = 1520
+2018-10-04 17:33:22.131  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:33:22.132  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:33:22.132  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:33:22.132  INFO      log              less_false = 150
+2018-10-04 17:33:22.132  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:33:22.132  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:33:22.132  INFO      log              blockSize = 11
+2018-10-04 17:33:22.132  INFO      log              C = 2.6
+2018-10-04 17:34:29.916  INFO      log              dp = 2
+2018-10-04 17:34:29.917  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:34:29.917  INFO      log              mindist = 100
+2018-10-04 17:34:29.917  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:34:29.917  INFO      log              higher_threshold = 1520
+2018-10-04 17:34:29.917  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:34:29.917  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:34:29.918  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:34:29.918  INFO      log              less_false = 150
+2018-10-04 17:34:29.918  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:34:29.918  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:34:29.918  INFO      log              blockSize = 11
+2018-10-04 17:34:29.918  INFO      log              C = 2.6
+2018-10-04 17:35:13.061  INFO      log              dp = 2
+2018-10-04 17:35:13.061  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:35:13.062  INFO      log              mindist = 100
+2018-10-04 17:35:13.062  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:35:13.062  INFO      log              higher_threshold = 1520
+2018-10-04 17:35:13.062  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:35:13.062  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:35:13.062  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:35:13.062  INFO      log              less_false = 150
+2018-10-04 17:35:13.062  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:35:13.063  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:35:13.063  INFO      log              blockSize = 11
+2018-10-04 17:35:13.063  INFO      log              C = 2.6
+2018-10-04 17:35:46.080  INFO      log              dp = 2
+2018-10-04 17:35:46.081  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:35:46.081  INFO      log              mindist = 100
+2018-10-04 17:35:46.081  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:35:46.081  INFO      log              higher_threshold = 1520
+2018-10-04 17:35:46.081  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:35:46.081  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:35:46.081  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:35:46.082  INFO      log              less_false = 150
+2018-10-04 17:35:46.082  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:35:46.082  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:35:46.082  INFO      log              blockSize = 11
+2018-10-04 17:35:46.082  INFO      log              C = 2.6
+2018-10-04 17:35:46.082  ERROR     log              something wrong with web-cam image...
+2018-10-04 17:50:53.636  INFO      log              dp = 2
+2018-10-04 17:50:53.637  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:50:53.637  INFO      log              mindist = 100
+2018-10-04 17:50:53.638  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:50:53.638  INFO      log              higher_threshold = 1520
+2018-10-04 17:50:53.638  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:50:53.639  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:50:53.639  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:50:53.639  INFO      log              less_false = 150
+2018-10-04 17:50:53.640  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:50:53.640  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:50:53.640  INFO      log              blockSize = 11
+2018-10-04 17:50:53.640  INFO      log              C = 2.6
+2018-10-04 17:50:53.640  ERROR     log              something wrong with web-cam image...
+2018-10-04 17:51:31.799  INFO      log              dp = 2
+2018-10-04 17:51:31.799  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:51:31.800  INFO      log              mindist = 100
+2018-10-04 17:51:31.800  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:51:31.800  INFO      log              higher_threshold = 1520
+2018-10-04 17:51:31.800  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:51:31.800  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:51:31.801  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:51:31.801  INFO      log              less_false = 150
+2018-10-04 17:51:31.801  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:51:31.801  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:51:31.801  INFO      log              blockSize = 11
+2018-10-04 17:51:31.801  INFO      log              C = 2.6
+2018-10-04 17:51:32.501  INFO      log              dp = 2
+2018-10-04 17:51:32.502  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:51:32.502  INFO      log              mindist = 100
+2018-10-04 17:51:32.502  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:51:32.502  INFO      log              higher_threshold = 1520
+2018-10-04 17:51:32.502  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:51:32.502  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:51:32.502  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:51:32.503  INFO      log              less_false = 150
+2018-10-04 17:51:32.503  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:51:32.503  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:51:32.503  INFO      log              blockSize = 11
+2018-10-04 17:51:32.503  INFO      log              C = 2.6
+2018-10-04 17:51:33.212  INFO      log              calculate, depend of video-size:
+2018-10-04 17:51:33.212  INFO      log              min_radius  = 43
+2018-10-04 17:51:33.213  INFO      log              max_radius  = 218
+2018-10-04 17:51:33.213  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 17:51:33.213  INFO      log              how many hits to confirm: 8
+2018-10-04 17:51:33.248  INFO      log              LED-OFF
+2018-10-04 17:51:34.752  INFO      log              LED-ON:
+2018-10-04 17:51:34.752  INFO      log              circle X: 185, Y: 229, R: 189
+2018-10-04 17:51:37.752  INFO      log              LED-OFF
+2018-10-04 17:51:38.485  INFO      log              LED-ON:
+2018-10-04 17:51:38.485  INFO      log              circle X: 209, Y: 241, R: 166
+2018-10-04 17:51:43.304  INFO      log              LED-OFF
+2018-10-04 17:51:43.482  INFO      log              LED-ON:
+2018-10-04 17:51:43.482  INFO      log              circle X: 211, Y: 229, R: 162
+2018-10-04 17:51:50.160  INFO      log              LED-OFF
+2018-10-04 17:51:50.582  INFO      log              LED-ON:
+2018-10-04 17:51:50.582  INFO      log              circle X: 211, Y: 111, R: 85
+2018-10-04 17:51:53.471  INFO      log              LED-OFF
+2018-10-04 17:51:54.793  INFO      log              LED-ON:
+2018-10-04 17:51:54.794  INFO      log              circle X: 209, Y: 105, R: 79
+2018-10-04 17:51:56.064  INFO      log              LED-OFF
+2018-10-04 17:51:56.571  INFO      log              LED-ON:
+2018-10-04 17:51:56.571  INFO      log              circle X: 205, Y: 115, R: 83
+2018-10-04 17:51:58.953  INFO      log              LED-OFF
+2018-10-04 17:52:00.015  INFO      log              LED-ON:
+2018-10-04 17:52:00.016  INFO      log              circle X: 289, Y: 71, R: 110
+2018-10-04 17:52:00.755  INFO      log              LED-OFF
+2018-10-04 17:52:01.727  INFO      log              LED-ON:
+2018-10-04 17:52:01.727  INFO      log              circle X: 537, Y: 89, R: 85
+2018-10-04 17:52:03.941  INFO      log              LED-OFF
+2018-10-04 17:52:05.115  INFO      log              LED-ON:
+2018-10-04 17:52:05.115  INFO      log              circle X: 201, Y: 243, R: 170
+2018-10-04 17:52:21.909  INFO      log              LED-OFF
+2018-10-04 17:52:22.175  INFO      log              LED-ON:
+2018-10-04 17:52:22.175  INFO      log              circle X: 199, Y: 243, R: 170
+2018-10-04 17:52:49.009  INFO      log              LED-OFF
+2018-10-04 17:52:51.469  INFO      log              LED-ON:
+2018-10-04 17:52:51.470  INFO      log              circle X: 215, Y: 243, R: 175
+2018-10-04 17:52:59.977  INFO      log              LED-OFF
+2018-10-04 17:53:00.072  INFO      log              LED-ON:
+2018-10-04 17:53:00.072  INFO      log              circle X: 177, Y: 231, R: 190
+2018-10-04 17:53:48.053  INFO      log              LED-OFF
+2018-10-04 17:53:49.131  INFO      log              LED-ON:
+2018-10-04 17:53:49.131  INFO      log              circle X: 191, Y: 245, R: 174
+2018-10-04 17:53:55.691  INFO      log              LED-OFF
+2018-10-04 17:53:57.347  INFO      log              LED-ON:
+2018-10-04 17:53:57.347  INFO      log              circle X: 301, Y: 271, R: 82
+2018-10-04 17:53:57.347  INFO      log              circle X: 561, Y: 127, R: 44
+2018-10-04 17:54:02.755  INFO      log              LED-OFF
+2018-10-04 17:54:03.478  INFO      log              LED-ON:
+2018-10-04 17:54:03.478  INFO      log              circle X: 171, Y: 231, R: 195
+2018-10-04 17:54:12.953  INFO      log              LED-OFF
+2018-10-04 17:54:13.208  INFO      log              LED-ON:
+2018-10-04 17:54:13.208  INFO      log              circle X: 193, Y: 243, R: 174
+2018-10-04 17:54:55.581  INFO      log              dp = 2
+2018-10-04 17:54:55.581  INFO      log              dp – Inverse ratio of the accumulator resolution to the image resolution.
+2018-10-04 17:54:55.582  INFO      log              mindist = 100
+2018-10-04 17:54:55.582  INFO      log              mindist – Minimum distance between the centers of the detected circles.
+2018-10-04 17:54:55.582  INFO      log              higher_threshold = 1520
+2018-10-04 17:54:55.582  INFO      log              higher_threshold – First method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:54:55.582  INFO      log              it is the higher threshold of the two passed to the Canny() edge detector 
+2018-10-04 17:54:55.583  INFO      log              (the lower one is twice smaller)
+2018-10-04 17:54:55.583  INFO      log              less_false = 150
+2018-10-04 17:54:55.583  INFO      log              less_false – Second method-specific parameter. In case of CV_HOUGH_GRADIENT ,
+2018-10-04 17:54:55.583  INFO      log              it is the accumulator threshold for the circle centers at the detection stage.
+2018-10-04 17:54:55.583  INFO      log              blockSize = 11
+2018-10-04 17:54:55.583  INFO      log              C = 2.6
+2018-10-04 17:55:00.519  INFO      log              calculate, depend of video-size:
+2018-10-04 17:55:00.519  INFO      log              min_radius  = 43
+2018-10-04 17:55:00.520  INFO      log              max_radius  = 218
+2018-10-04 17:55:00.520  INFO      log              how many loops will be stored id DB: 10
+2018-10-04 17:55:00.520  INFO      log              how many hits to confirm: 8
+2018-10-04 17:55:00.594  INFO      log              LED-OFF
+2018-10-04 17:55:01.761  INFO      log              LED-ON:
+2018-10-04 17:55:01.761  INFO      log              circle X: 189, Y: 249, R: 170
+2018-10-04 17:55:04.559  INFO      log              LED-OFF
+2018-10-04 17:55:04.956  INFO      log              LED-ON:
+2018-10-04 17:55:04.956  INFO      log              circle X: 185, Y: 171, R: 140
+2018-10-04 17:55:05.623  INFO      log              LED-OFF
+2018-10-04 17:55:06.592  INFO      log              LED-ON:
+2018-10-04 17:55:06.592  INFO      log              circle X: 205, Y: 113, R: 77
+2018-10-04 17:55:08.395  INFO      log              LED-OFF
+2018-10-04 17:55:08.469  INFO      log              LED-ON:
+2018-10-04 17:55:08.469  INFO      log              circle X: 201, Y: 119, R: 81
+2018-10-04 17:55:23.595  INFO      log              LED-OFF
+2018-10-04 17:55:23.670  INFO      log              LED-ON:
+2018-10-04 17:55:23.671  INFO      log              circle X: 199, Y: 119, R: 83
+2018-10-04 17:55:33.115  INFO      log              LED-OFF
+2018-10-04 17:55:33.181  INFO      log              LED-ON:
+2018-10-04 17:55:33.181  INFO      log              circle X: 193, Y: 243, R: 174
+2018-10-04 17:55:52.868  INFO      log              LED-OFF
+2018-10-04 17:55:53.051  INFO      log              LED-ON:
+2018-10-04 17:55:53.052  INFO      log              circle X: 203, Y: 119, R: 81
+2018-10-04 17:55:53.052  INFO      log              circle X: 193, Y: 241, R: 172
+2018-10-04 17:55:55.101  INFO      log              LED-OFF
+2018-10-04 17:55:55.194  INFO      log              LED-ON:
+2018-10-04 17:55:55.194  INFO      log              circle X: 197, Y: 245, R: 172
+2018-10-04 17:55:59.620  INFO      log              LED-OFF
+2018-10-04 17:56:00.682  INFO      log              LED-ON:
+2018-10-04 17:56:00.682  INFO      log              circle X: 311, Y: 227, R: 86
+2018-10-04 17:56:02.228  INFO      log              LED-OFF
+2018-10-04 17:56:03.229  INFO      log              LED-ON:
+2018-10-04 17:56:03.229  INFO      log              circle X: 173, Y: 229, R: 194
+2018-10-04 17:56:03.961  INFO      log              LED-OFF
+2018-10-04 17:56:10.151  INFO      log              LED-ON:
+2018-10-04 17:56:10.151  INFO      log              circle X: 479, Y: 125, R: 54
+2018-10-04 17:56:15.482  INFO      log              LED-OFF
+2018-10-04 17:56:15.620  INFO      log              LED-ON:
+2018-10-04 17:56:15.620  INFO      log              circle X: 171, Y: 279, R: 88
+2018-10-04 17:56:15.621  INFO      log              circle X: 481, Y: 155, R: 60
+2018-10-04 17:56:16.291  INFO      log              LED-OFF
+2018-10-04 17:56:19.527  INFO      log              LED-ON:
+2018-10-04 17:56:19.527  INFO      log              circle X: 171, Y: 169, R: 140
+2018-10-04 17:56:19.773  INFO      log              LED-OFF
+2018-10-04 17:56:19.837  INFO      log              LED-ON:
+2018-10-04 17:56:19.837  INFO      log              circle X: 173, Y: 177, R: 148
+2018-10-04 17:56:20.301  INFO      log              LED-OFF
+2018-10-04 17:56:20.939  INFO      log              LED-ON:
+2018-10-04 17:56:20.939  INFO      log              circle X: 197, Y: 121, R: 81
+2018-10-04 17:56:25.883  INFO      log              LED-OFF
+2018-10-04 17:56:26.553  INFO      log              LED-ON:
+2018-10-04 17:56:26.553  INFO      log              circle X: 427, Y: 151, R: 52
+2018-10-04 17:56:27.032  INFO      log              LED-OFF
+2018-10-04 17:56:28.151  INFO      log              LED-ON:
+2018-10-04 17:56:28.151  INFO      log              circle X: 113, Y: 297, R: 127
+2018-10-04 17:56:29.017  INFO      log              LED-OFF
+2018-10-04 17:56:30.752  INFO      log              LED-ON:
+2018-10-04 17:56:30.752  INFO      log              circle X: 487, Y: 161, R: 57
+2018-10-04 17:56:36.219  INFO      log              LED-OFF
+2018-10-04 17:56:36.884  INFO      log              LED-ON:
+2018-10-04 17:56:36.885  INFO      log              circle X: 131, Y: 313, R: 118
+2018-10-04 17:56:38.150  INFO      log              LED-OFF
+2018-10-04 17:56:38.552  INFO      log              LED-ON:
+2018-10-04 17:56:38.552  INFO      log              circle X: 139, Y: 333, R: 124
+2018-10-04 17:56:39.284  INFO      log              LED-OFF
+2018-10-04 17:56:40.883  INFO      log              LED-ON:
+2018-10-04 17:56:40.883  INFO      log              circle X: 167, Y: 291, R: 114
+2018-10-04 17:56:40.884  INFO      log              circle X: 519, Y: 141, R: 59
+2018-10-04 17:56:46.816  INFO      log              LED-OFF
+2018-10-04 17:56:48.234  INFO      log              LED-ON:
+2018-10-04 17:56:48.234  INFO      log              circle X: 191, Y: 235, R: 178
+2018-10-04 17:56:50.768  INFO      log              LED-OFF
+2018-10-04 17:56:50.854  INFO      log              LED-ON:
+2018-10-04 17:56:50.854  INFO      log              circle X: 191, Y: 245, R: 174
+2018-10-04 17:56:58.602  INFO      log              LED-OFF
+2018-10-04 17:56:58.886  INFO      log              LED-ON:
+2018-10-04 17:56:58.886  INFO      log              circle X: 189, Y: 215, R: 166
+2018-10-04 17:57:06.340  INFO      log              LED-OFF
+2018-10-04 17:57:06.418  INFO      log              LED-ON:
+2018-10-04 17:57:06.418  INFO      log              circle X: 201, Y: 119, R: 85
+2018-10-04 17:57:06.419  INFO      log              circle X: 187, Y: 241, R: 178
